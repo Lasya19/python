@@ -1,0 +1,5 @@
+Name=input("NAME: ")
+rent=int(input("rent :"))
+needs=int(input("needs :"))
+bill=int(input("bill :"))
+print(Name,rent+needs+bill)         
