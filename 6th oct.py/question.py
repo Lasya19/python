@@ -15,7 +15,7 @@ else:
 if n <= 0 or n > 30:
     print("ride not accepted")
 else:
-    fare = 0
+    fare = 0git push
 
     for km in range(1, n + 1):
         if km <= 5:
