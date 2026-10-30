@@ -1,0 +1,1 @@
+print(list(map(lambda x:"even" if x%2==0 else x,[1,2,3,4,5,6])))

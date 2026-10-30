@@ -101,3 +101,5 @@ if(marksofstudent>=35):
 else:
   print("not passed")    
 
+print()
+
